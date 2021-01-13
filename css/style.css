@@ -11,6 +11,7 @@ body{
 header{
   background-color: white;
   height: 80px;
+  padding: 10px;
 }
 
 .main-title{
