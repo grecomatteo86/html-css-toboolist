@@ -98,12 +98,15 @@ h2{
   margin: 5px 10px 5px 10px;
 }
 
-.editorial-label{
+.label{
   font-size: 8px;
-  background-color: rgb(75, 172, 231);
   border-radius: 30%;
   padding: 5px;
   color: white;
+}
+
+.editorial{
+  background-color: rgb(75, 172, 231);
 }
 
 .goals{
