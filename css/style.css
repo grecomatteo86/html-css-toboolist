@@ -28,12 +28,16 @@ img{
   height: 100%;
 }
 
-.upper-container{
-  height: 50px;
+.container{
+  height: 550px;
   width: 80%;
   background-color: white;
-  margin: 40px auto 5px;
-  border-radius: 5% 5% 0 0;
+  margin: 40px auto;
+  border-radius: 5%;
+}
+
+.action{
+  border-bottom: 1px solid rgb(246, 248, 249);
 }
 
 .button-1, .button-2{
@@ -56,14 +60,6 @@ img{
   color: lightgrey;
   background-color: white;
   border: 1px solid lightgrey;
-}
-
-.lower-container{
-  width: 80%;
-  height: 490px;
-  background-color: white;
-  margin: auto;
-  border-radius: 0 0 5% 5%;
 }
 
 h2{
