@@ -72,15 +72,20 @@ h2{
   font-family: 'Yusei Magic', sans-serif;
 }
 
-.check{
+.marker{
   display: inline-block;
   width: 15px;
   height: 15px;
-  border: 1px solid green;
+  border: 1px solid;
   border-radius: 50%;
   font-size: 10px;
   text-align: center;
+
+}
+
+.check{
   color: green;
+  border-color: green;
 }
 
 .cross{
