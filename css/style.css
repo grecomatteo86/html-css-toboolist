@@ -3,17 +3,14 @@
   margin: 0;
   padding: 0;
 }
-
 body{
   background-color: rgb(246, 248, 249);
 }
-
 header{
   background-color: white;
   height: 80px;
   padding: 10px;
 }
-
 .main-title{
   display: inline;
   font-size: 40px;
@@ -22,12 +19,10 @@ header{
   font-weight: bold;
   font-family: 'Yusei Magic', sans-serif;
 }
-
 img{
   vertical-align: middle;
   height: 100%;
 }
-
 .container{
   height: 550px;
   width: 80%;
@@ -35,43 +30,35 @@ img{
   margin: 40px auto;
   border-radius: 5%;
 }
-
 .action{
   border-bottom: 1px solid rgb(246, 248, 249);
 }
-
 .button-1, .button-2{
   margin: 11px 0px 11px 0px;
   padding: 7px;
   border-radius: 10%;
 }
-
 .button-1, .activities{
   margin-left: 50px;
 }
-
 .button-1{
   background-color: rgb(77, 174, 283);
   color: white;
   border: none;
 }
-
 .button-2{
   color: lightgrey;
   background-color: white;
   border: 1px solid lightgrey;
 }
-
 h2{
   padding-top: 20px;
 }
-
 .title-h2{
   margin-left: 10px;
   font-size: 22px;
   font-family: 'Yusei Magic', sans-serif;
 }
-
 .marker{
   display: inline-block;
   width: 15px;
@@ -80,55 +67,43 @@ h2{
   border-radius: 50%;
   font-size: 10px;
   text-align: center;
-
 }
-
 .check{
   color: green;
   border-color: green;
 }
-
 .cross{
   color: red;
   border-color: red;
 }
-
 .text{
   display: inline-block;
   margin: 5px 10px 5px 10px;
 }
-
 .label{
   font-size: 8px;
   border-radius: 30%;
   padding: 5px;
   color: white;
 }
-
 .editorial{
   background-color: rgb(75, 172, 231);
 }
-
 .goals{
   background-color: rgba(155, 117, 225);
 }
-
 .recruiting{
   background-color: rgba(104, 191, 169);
 }
-
 .mobile{
   background-color: rgba(240, 157, 64);
 }
-
 .website{
   background-color: rgba(214, 101, 160);
 }
-
 .sales{
   background-color: rgba(176, 199, 56);
 }
-
 .row{
   margin-bottom: 10px;
 }
